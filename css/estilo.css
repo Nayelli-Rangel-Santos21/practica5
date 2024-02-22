@@ -1,0 +1,28 @@
+:root{
+    --fondoDiv : rgb(212, 250, 253);
+    --colortexto: black;
+    --colorpeligro: red; 
+
+}
+.black-box{
+    background-color:var(--fondoDiv) ;
+    color: var(--colortexto);
+}
+.caja{
+    color: var(--colorpeligro);
+}
+.home {
+    text-decoration: none;
+    background-color: rgb(7, 141, 141);
+    color: black;
+    padding: 10px;
+    border: 15px;
+}
+.enlace {
+    background-color: rgb(7, 141, 141);
+    padding: 10px;
+    border: 15px;
+    text-decoration: none;
+    color: black;
+    
+}
